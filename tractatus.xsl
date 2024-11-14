@@ -26,16 +26,28 @@
         </xsl:template> -->
    
    <xsl:template match="s">
-      <stc>
+      <sentence>
          <xsl:apply-templates select="@*|node()"/>
-      </stc>
-   </xsl:template>   
+      </sentence>
+   </xsl:template>
+
    
-   <xsl:template match="@pos">
+   <xsl:template match="@lemma | @pos">
      <xsl:attribute name="title">
-       <xsl:value-of select="."/>
+       <xsl:for-each select="../@*">
+	 <xsl:value-of select="name()"/>
+	 <xsl:text>:  </xsl:text>
+	 <xsl:value-of select="."/>
+	 <xsl:text>; </xsl:text>
+       </xsl:for-each>
      </xsl:attribute>
    </xsl:template>
+
+   <!-- <xsl:template match="@pos"> -->
+   <!--   <xsl:attribute name="title"> -->
+   <!--     <xsl:value-of select="concat('pos: ', .)"/> -->
+   <!--   </xsl:attribute> -->
+   <!-- </xsl:template> -->
    
    <xsl:template match="div[@type='section']/head">
       <h3><xsl:apply-templates select="@*|node()"/></h3>

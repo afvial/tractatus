@@ -487,23 +487,33 @@
 	      <pc type="period">.</pc>
             </s>
             <s>
-              <w lemma="" pos="">Octo</w>
-              <w lemma="" pos="">Topicorum</w>
+              <w lemma="octo" pos="m--------">Octo</w>
+              <w lemma="Topica" pos="n-p---ng-">Topicorum</w>
 	      <pc type="comma">,</pc>
-              <w lemma="" pos="">sive</w>
-              <w lemma="" pos="">loca</w>
-              <w lemma="" pos="">argumentorum</w>
-              <w lemma="" pos="">ad</w>
-              <w lemma="" pos="">provabilia</w>
-              <w lemma="" pos="">quaeque</w>
-              <w lemma="" pos="">provanda</w>
+              <w lemma="sive" pos="c--------">sive</w>
+              <w lemma="locum" pos="n-p---nn-">loca</w>
+              <w lemma="argumentum" pos="n-p---ng-">argumentorum</w>
+              <w lemma="ad" pos="r--------">ad</w>
+              <w lemma="probabilis" pos="a-p---na-">
+		<choice>
+		  <sic>provabilia</sic>
+		  <corr>probabilia</corr>
+		</choice>
+	      </w>
+              <w lemma="p-p---na-" pos="quisque">quaeque</w>
+              <w lemma="probo" pos="v-p-g-na-">
+		<choice>
+		  <sic>provanda</sic>
+		  <corr>probanda</corr>
+		</choice>
+		</w>
 	      <pc type="period">.</pc>
             </s>
             <s>
-              <w lemma="" pos="">Duo</w>
-              <w lemma="" pos="">etiam</w>
-              <w lemma="" pos="">de</w>
-              <w lemma="" pos="">sophismatibus</w>
+              <w lemma="duo" pos="a-p---mn-">Duo</w>
+              <w lemma="etiam" pos="c--------">etiam</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="sophisma" pos="n-p---nb-">sophismatibus</w>
 	      <pc type="period">.</pc>
             </s>
             <s>
