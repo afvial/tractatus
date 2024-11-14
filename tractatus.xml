@@ -391,7 +391,7 @@
           <p>
             <s>
               <name type="pers">
-		<w lemma="Aristoteles" pos="">Aristoteles</w>
+		<w lemma="Aristoteles" pos="n-s---mn-">Aristoteles</w>
 	      </name>
               <w lemma="subtilis" pos="a-s---ngs">
 		<choice>
@@ -422,28 +422,38 @@
             <s>
               <w lemma="in" pos="r--------">In</w>
               <w lemma="primus" pos="a-s---mb-">primo</w>
-              <w lemma="" pos="">de</w>
-              <w lemma="" pos="">cathegoria</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="categoria" pos="n-s---fb-">
+		<choice>
+		  <sic>cathegoria</sic>
+		  <corr>categoria</corr>
+		</choice>
+	      </w>
 	      <pc type="comma">,</pc>
-              <w lemma="" pos="">sive</w>
-              <w lemma="" pos="">de</w>
-              <w lemma="" pos="">ideis</w>
-              <w lemma="" pos="">ad</w>
-              <w lemma="" pos="">ordinem</w>
-              <w lemma="" pos="">reducendis</w>
-              <w lemma="" pos="">tractat</w>
+              <w lemma="sive" pos="c--------">sive</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="idea" pos="n-p---fb">ideis</w>
+              <w lemma="ad" pos="r--------">ad</w>
+              <w lemma="ordo" pos="n-s---ma-">ordinem</w>
+              <w lemma="reduco" pos="v-p-g-fb-">reducendis</w>
+              <w lemma="tracto" pos="v3spia---">tractat</w>
 	      <pc type="period">.</pc>
             </s>
             <s>
-              <w lemma="" pos="">Secundo</w>
-              <w lemma="" pos="">Perhiermenias</w>
+              <w lemma="secundus" pos="a-s---mb-">Secundo</w>
+              <w lemma="" pos="">
+		<choice>
+		  <sic>Perhiermenias</sic>
+		  <corr>Perihermenias</corr>
+		</choice>
+	      </w>
 	      <pc type="comma">,</pc>
-              <w lemma="" pos="">sive</w>
-              <w lemma="" pos="">de</w>
-              <w lemma="" pos="">vi</w>
-              <w lemma="" pos="">nominum</w>
-              <w lemma="" pos="">et</w>
-              <w lemma="" pos="">verborum</w>
+              <w lemma="sive" pos="c--------">sive</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="vi" pos="n-s---fb-">vi</w>
+              <w lemma="nomen" pos="n-p---ng-">nominum</w>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="verbum" pos="n-p---ng-">verborum</w>
 	      <pc type="period">.</pc>
             </s>
             <s>
