@@ -457,23 +457,33 @@
 	      <pc type="period">.</pc>
             </s>
             <s>
-              <w lemma="" pos="">Duo</w>
-              <w lemma="" pos="">priorum</w>
-              <w lemma="" pos="">analyticorum</w>
+              <w lemma="duo" pos="a-p---mn-">Duo</w>
+              <w lemma="prior" pos="a-p---mgc">priorum</w>
+              <w lemma="analyticus" pos="a-p---mgp">analyticorum</w>
 	      <pc type="comma">,</pc>
-              <w lemma="" pos="">sive</w>
-              <w lemma="" pos="">de</w>
-              <w lemma="" pos="">sillogismo</w>
-              <w lemma="" pos="">generatim</w>
+              <w lemma="sive" pos="c--------">sive</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="syllogismus" pos="n-s---mb-">
+		<choice>
+		  <sic>sillogismo</sic>
+		  <corr>syllogismo</corr>
+		</choice>
+	      </w>
+              <w lemma="generatim" pos="d--------">generatim</w>
 	      <pc type="period">.</pc>
             </s>
             <s>
-              <w lemma="" pos="">Duo</w>
-              <w lemma="" pos="">posteriorum</w>
-              <w lemma="" pos="">analyticorum</w>
-              <w lemma="" pos="">de</w>
-              <w lemma="" pos="">sillogismo</w>
-              <w lemma="" pos="">demostrativo</w>
+              <w lemma="duo" pos="a-p---mn-">Duo</w>
+              <w lemma="posterius" pos="a-p---mg-">posteriorum</w>
+              <w lemma="analyticus" pos="a-p---mgp">analyticorum</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="syllogismus" pos="n-s---mb-">
+		<choice>
+		  <sic>sillogismo</sic>
+		  <corr>syllogismo</corr>
+		</choice>
+		</w>
+              <w lemma="demonstrativus" pos="a-s---mb-">demostrativo</w>
 	      <pc type="period">.</pc>
             </s>
             <s>
