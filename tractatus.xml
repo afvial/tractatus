@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>
+	</title>
+	<author>
+	</author>
+	<respStmt>
+	  <resp>
+	  </resp>
+	  <name>
+	  </name>
+	</respStmt>	  
+      </titleStmt>
+      <editionStmt>
+	<edition>
+	</edition>
+	<respStmt>
+	  <resp>
+	  </resp>
+	  <name>
+	  </name>
+	</respStmt>
+      </editionStmt>
+      <extent>
+      </extent>
+      <publicationStmt>
+	<publisher>
+	</publisher>
+	<distributor>
+	</distributor>
+      </publicationStmt>
+      <sourceDesc>
+	<bibl>
+	</bibl>
+	<listBibl>
+	  <head>
+	  </head>
+	  <bibl>
+	  </bibl>
+	</listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+	<p>
+	</p>
+      </projectDesc>
+      <samplingDecl>
+	<p>
+	</p>
+      </samplingDecl>
+      <editorialDecl>
+	<p>
+	</p>
+      </editorialDecl>
+      <refsDecl>
+	<p>
+	</p>
+      </refsDecl>
+      <classDecl>
+	<taxonomy>
+	  <bibl>
+	  </bibl>
+	</taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+      </creation>
+      <langUsage>
+	<language ident="la">
+	</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+    </front>
+    <body>
+      <div type="section" n="1">
+        <head>
+          <pb facs="6"/>
+          <w lemma="" pos="">Elementa</w>
+          <w lemma="" pos="">logicae</w>
+          <w lemma="" pos="">tam</w>
+          <w lemma="" pos="">antiquae</w>
+	  <pc type="comma">,</pc>
+          <w lemma="" pos="">quam</w>
+          <w lemma="" pos="">recentioris</w>
+	  <pc type="comma">.</pc>
+        </head>
+        <div type="subsection" n="1">
+          <head>
+            <w lemma="" pos="">Brevis</w>
+            <w lemma="" pos="">historia</w>
+            <w lemma="" pos="">logicae</w>
+	    <pc type="period">.</pc>
+          </head>
+          <p>
+            <s>
+              <w lemma="logica" pos="n-s---fn-">Logica</w>
+              <w lemma="ab" pos="r--------">ab</w>
+              <w lemma="incunabula" pos="n-p---nb-">
+                <choice>
+                  <sic>incunabalis</sic>
+                  <corr>incunabulis</corr>
+                </choice>
+              </w>
+              <w lemma="eo" pos="d--------">eo</w>
+              <w lemma="laboro" pos="v3siia---">laborabat</w>
+	      <pc type="comma">,</pc>
+              <w lemma="ut" pos="d--------">ut</w>
+              <w lemma="homo" pos="n-p---ma-">homines</w>
+              <w lemma="frequens" pos="a-------c">frequentius</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="verbum" pos="n-p---nb-">verbis</w>
+              <w lemma="in-significo" pos="v-ppp-nb-">insignificantibus</w>
+	      <pc type="comma">,</pc>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="de" pos="v-prppfb-">inexactis</w>
+              <w lemma="definitio" pos="n-p---fb-">definitionibus</w>
+	      <pc type="comma">,</pc> 
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="arbitrarius" pos="a-p---fb-">arbitrariis</w>
+              <w lemma="distinctio" pos="n-p---fb-">distinctionibus</w>
+              <w lemma="" pos="d-------p">aeterne</w>
+              <w lemma="" pos="v3pisa---">disputarent</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="hinc" pos="d--------">Hinc</w>
+              <w lemma="orior" pos="v-prppmn-">orti</w>
+	      <name type="org">
+		<w lemma="sophistes" pos="n-p---mn-">Sophistae</w>
+	      </name>
+	      <pc type="comma">,</pc>
+              <w lemma="qui" pos="p-p---mg-">quorum</w>
+              <w lemma="vanus" pos="a-s---fn-">vana</w>
+              <w lemma="verbum" pos="n-p---ng-">verborum</w>
+              <w lemma="ostentatio" pos="n-s---fn-">ostentatio</w>
+              <w lemma="in" pos="r--------">in</w>
+              <w lemma="subtilis" pos="a-p---fb-">subtilibus</w>
+	      <pc type="period">,</pc>
+              <w lemma="et" pos="">et</w>
+              <w lemma="inutilis" pos="a-p---fb-">inutilibus</w>
+              <w lemma="quaestio" pos="n-p---fb-">quaestionibus</w>
+              <w lemma="mortalis" pos="a-p---ma-">mortales</w>
+              <w lemma="defatigo" pos="v3siia---">defatigabat</w>
+              <pc type="colon">:</pc>
+              <w lemma="aequaliter" pos="d--------">
+                <choice>
+                  <sic>equaliter</sic>
+                  <corr>aequaliter</corr>
+                </choice>
+              </w>
+              <w lemma="" pos="">
+                <choice>
+                  <sic>extrenui</sic>
+                  <corr>extranui</corr>
+                </choice>
+              </w>
+              <w lemma="ad" pos="r--------">ad</w>
+              <w lemma="veritas" pos="n-s---fa-">veritatem</w>
+	      <pc type="comma">,</pc>
+              <w lemma="" pos="d--------">quam</w>
+              <w lemma="ad" pos="r--------">ad</w>
+              <w lemma="falsitas" pos="n-s---fa-">falsitatem</w>
+              <w lemma="sustineo" pos="v-s-g-fa-">sustinendam</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="hic" pos="p-s---ng-">Hujus</w>
+              <w lemma="genus" pos="n-s---ng-">generis</w>
+	      <name type="pers">
+		<w lemma="Zeno" pos="n-s---ma-">Zenonem</w>
+	      </name>
+	      <pc type="comma">,</pc>
+	      <name type="org">
+		<w lemma="" pos="">Eleatem</w>
+	      </name>
+              <w lemma="primus" pos="a-s---ma-">primum</w>
+              <w lemma="historia" pos="n-s---fb-">Historia</w>
+              <w lemma="prodeo" pos="v3sria---">prodiit</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="coaevus" pos="a-s---mn-">
+                <sic>Coevus</sic>
+                <corr>Coaevus</corr>
+              </w>
+              <w lemma="sum" pos="v3sria---">fuit</w>
+	      <name type="pers">
+		<w lemma="Socrates" pos="n-s---mg-">Socratis</w>
+	      </name>
+              <w lemma="vir" pos="n-s---mn-">vir</w>
+              <w lemma="summus" pos="a-s---nb-">summo</w>
+              <w lemma="acumen" pos="n-s---nb-">acumine</w>
+	      <pc type="comma">,</pc>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="probitas" pos="n-s---fb-">
+                <sic>provitate</sic>
+                <corr>probitate</corr>
+              </w>
+              <w lemma="praeditus" pos="a-s---mn-">praeditus</w>
+	      <pc type="comma">,</pc>
+              <w lemma="qui" pos="p-s---mn-">qui</w>
+              <w lemma="frequens" pos="a-p---fbs">
+                <sic>frequentisimis</sic>
+                <corr>frequentissimis</corr>
+              </w>
+              <w lemma="interrogatio" pos="n-p---fb-">interrogationibus</w>
+	      <pc type="comma">,</pc>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="intimus" pos="a-s---fb-">intima</w>
+              <w lemma="principium" pos="n-p---ng-">principiorum</w>
+              <w lemma="inductio" pos="n-s---fb-">inductione</w>
+              <w lemma="homo" pos="n-p---ma-">homines</w>
+              <w lemma="ad" pos="r--------">ad</w>
+              <w lemma="veritas" pos="n-s---fa-">veritatem</w>
+              <w lemma="confiteor" pos="v-s-g-fa-">confitendam</w>
+              <w lemma="duco" pos="v3siia---">ducebat</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="primo" pos="d--------">Primo</w>
+              <w lemma="ex" pos="r--------">ex</w>
+              <w lemma="adversaria" pos="n-p---ng-">adversariorum</w>
+              <w lemma="responsio" pos="n-p---fb-">responsionibus</w>
+              <w lemma="consequentia" pos="n-p---fa-">consequentias</w>
+              <w lemma="deduco" pos="v3siia---">deducebat</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="secundo" pos="d--------">Secundo</w>
+              <w lemma="ad" pos="r--------">ad</w>
+              <w lemma="ambiguitas" pos="n-s---fa-">ambiguitatem</w>
+              <w lemma="tollo" pos="v-s-g-fa-">tollendam</w>
+	      <pc type="comma">,</pc>
+              <w lemma="vocabulum" pos="">vocabula</w>
+              <w lemma="definio" pos="v3siia---">definiebat</w>
+	      <pc type="period">.</pc>
+            </s>
+          </p>
+          <p>
+            <s>
+              <w lemma="ab" pos="r--------">A</w>
+              <name type="pers">
+		<w lemma="Socrates" pos="n-s---mb-">Socrate</w>
+	      </name>
+	      <pc type="comma">,</pc>
+              <name type="org">
+		<w lemma="academicus" pos="n-p---mn-">Academici</w>
+	      </name>
+	      <pc type="comma">,</pc>
+              <name type="org">
+		<w lemma="Megaricus" pos="">Megarici</w>
+	      </name>
+	      <pc type="comma">,</pc>
+              <name type="org">
+		<w lemma="Cyrenaici" pos="n-p---mn-">
+		  <choice>
+		    <sic>Cirenaici</sic>
+		    <corr>Cyrenaici</corr>
+		  </choice>
+		</w>
+	      </name>
+	      <pc type="comma">,</pc>
+              <name type="org">
+		<w lemma="Peripateticus" pos="n-p---mn-">
+		  <choice>
+		    <sic>Peripathetici</sic>
+		    <corr>Peripatetici</corr>
+		  </choice>
+		</w>
+	      </name>
+	      <pc type="comma">,</pc>
+              <w lemma="et" pos="c--------">et</w>
+              <name type="org">
+		<w lemma="Stoicus" pos="n-p---mn-">Stoici</w>
+	      </name>
+              <w lemma="prodo" pos="v3pria---">prodiderunt</w>
+	      <pc type="comma">.</pc>
+            </s>
+            <s>
+              <name type="pers">
+                <w lemma="Plato" pos="n-s---mn-">Plato</w>
+              </name>
+              <w lemma="sum" pos="v3sria---">fuit</w>
+	      <name type="org">
+                <w lemma="academicus" pos="n-p---mg-">Academicorum</w>
+	      </name>
+              <w lemma="parens" pos="n-s---mn-">
+                <choice>
+		  <sic>Parens</sic>
+		  <corr>parens</corr>
+		</choice>
+	      </w>
+	      <pc type="comma">,</pc>
+              <w lemma="qui" pos="p-s---mn-">qui</w>
+              <w lemma="res" pos="n-p---fa-">res</w>
+              <w lemma="divido" pos="v3siia---">dividebat</w>
+	      <pc type="comma">,</pc>
+              <w lemma="definio" pos="v3siia---">definiebat</w>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="exacte" pos="d--------">exacte</w>
+              <w lemma="nomino" pos="v3siia---">nominabat</w>
+              <w lemma="ad" pos="r--------">ad</w>
+              <w lemma="deduco" pos="v-s-g-fa-">deducendam</w>
+              <w lemma="veritas" pos="n-s---fa-">veritatem</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <name type="pers">
+		<w lemma="Euclides" pos="n-s---mn-">Euclides</w>
+	      </name>
+              <name type="place">
+		<w lemma="Megaricus" pos="a-p---mgp">Megaricorum</w>
+	      </name>
+              <w lemma="conditor" pos="n-s---mn-">conditor</w>
+              <w lemma="" pos="">
+		<choice>
+		  <sic>rixandi</sic>
+		  <corr>rixanti</corr>
+		</choice>
+	      </w>
+              <w lemma="via" pos="n-s---fa-">viam</w>
+              <w lemma="aperio" pos="v3sria---">aperuit</w>
+	      <pc type="comma">,</pc>
+              <w lemma="ob" pos="r--------">ob</w>
+              <w lemma="fallacia" pos="n-p---fa-">
+		<choice>
+		  <sic>falacias</sic>
+		  <corr>fallacias</corr>
+		</choice>
+	      </w>
+              <w lemma="in" pos="r--------">in</w>
+              <w lemma="assiduus" pos="a-s---fb-">assidua</w>
+              <w lemma="disputatio" pos="n-s---fb-">disputatione</w>
+              <w lemma="introduco" pos="v-prppfa-">introductas</w>
+              <name type="pers">
+		<w lemma="Aristippus" pos="n-s---mn-">
+		  <choice>
+		    <sic>Aristipus</sic>
+		    <corr>Aristippus</corr>
+		  </choice>
+		</w>
+	      </name>
+              <w lemma="schola" pos="n-s---fg-">Scholae</w>
+              <w lemma="Cyrene" pos="n-s---fg-">
+		<choice>
+		  <sic>cirenaicae</sic>
+		  <corr>Cyrenae</corr>
+		</choice>
+	      </w>
+              <w lemma="auctor" pos="n-s---mn-">
+		<choice>
+		  <sic>autor</sic>
+		  <corr>auctor</corr>
+		</choice>
+	      </w>
+	      <pc type="comma">,</pc>
+              <w lemma="" pos="">criterium</w>
+              <w lemma="veritas" pos="n-s---fg-">veritatis</w>
+              <w lemma="in" pos="r--------">in</w>
+              <w lemma="affectio" pos="n-p---fb-">
+		<choice>
+		  <sic>afectionibus</sic>
+		  <corr>affectionibus</corr>
+		</choice>
+	      </w>
+              <w lemma="anima" pos="n-s---fg-">animae</w>
+	      <pc type="comma">,</pc>
+              <w lemma="sive" pos="c--------">sive</w>
+              <w lemma="in" pos="r--------">in</w>
+              <w lemma="sensu" pos="n-s---mb-">sensu</w>
+              <w lemma="dolor" pos="n-s---mg-">doloris</w>
+	      <pc type="comma">,</pc>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="voluptas" pos="n-s---fg-">voluptatis</w>
+              <w lemma="impono" pos="v3slia---">imposuerat</w>
+	      <pc type="period">.</pc>
+            </s>
+          </p>
+          <p>
+            <s>
+              <name type="pers">
+		<w lemma="Aristoteles" pos="n-s---mn-">Aristoteles</w>
+	      </name>
+              <w lemma="subtilis" pos="a-s---ngs">
+		<choice>
+		  <sic>subtilisimi</sic>
+		  <corr>subtilissimi</corr>
+		</choice>
+	      </w>
+	      <pc type="comma">,</pc>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="bonus" pos="a-s---ng-">optimi</w>
+              <w lemma="vir" pos="n-s---mn-">vir</w>
+              <w lemma="ingenium" pos="n-s---ng-">ingenii</w>
+	      <pc type="comma">,</pc>
+              <w lemma="centum" pos="m--------">centum</w>
+              <w lemma="viginti" pos="m--------">viginti</w>
+              <w lemma="liber" pos="n-p---ma-">libros</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="res" pos="n-s---fb-">re</w>
+              <w lemma="logicus" pos="a-s---fb-">logica</w>
+              <w lemma="scribo" pos="v3sria---">scripsit</w>
+	      <pc type="comma">,</pc>
+              <w lemma="qui" pos="p-p---mg-">quorum</w>
+              <w lemma="vix" pos="d--------">vix</w>
+              <w lemma="adsum" pos="v3ppia---">adsunt</w>
+              <w lemma="" pos="">quatuordecim</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="in" pos="r--------">In</w>
+              <w lemma="primus" pos="a-s---mb-">primo</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="categoria" pos="n-s---fb-">
+		<choice>
+		  <sic>cathegoria</sic>
+		  <corr>categoria</corr>
+		</choice>
+	      </w>
+	      <pc type="comma">,</pc>
+              <w lemma="sive" pos="c--------">sive</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="idea" pos="n-p---fb">ideis</w>
+              <w lemma="ad" pos="r--------">ad</w>
+              <w lemma="ordo" pos="n-s---ma-">ordinem</w>
+              <w lemma="reduco" pos="v-p-g-fb-">reducendis</w>
+              <w lemma="tracto" pos="v3spia---">tractat</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="secundus" pos="a-s---mb-">Secundo</w>
+              <w lemma="" pos="">
+		<choice>
+		  <sic>Perhiermenias</sic>
+		  <corr>Perihermenias</corr>
+		</choice>
+	      </w>
+	      <pc type="comma">,</pc>
+              <w lemma="sive" pos="c--------">sive</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="vi" pos="n-s---fb-">vi</w>
+              <w lemma="nomen" pos="n-p---ng-">nominum</w>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="verbum" pos="n-p---ng-">verborum</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="duo" pos="a-p---mn-">Duo</w>
+              <w lemma="prior" pos="a-p---mgc">priorum</w>
+              <w lemma="analyticus" pos="a-p---mgp">analyticorum</w>
+	      <pc type="comma">,</pc>
+              <w lemma="sive" pos="c--------">sive</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="syllogismus" pos="n-s---mb-">
+		<choice>
+		  <sic>sillogismo</sic>
+		  <corr>syllogismo</corr>
+		</choice>
+	      </w>
+              <w lemma="generatim" pos="d--------">generatim</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="duo" pos="a-p---mn-">Duo</w>
+              <w lemma="posterius" pos="a-p---mg-">posteriorum</w>
+              <w lemma="analyticus" pos="a-p---mgp">analyticorum</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="syllogismus" pos="n-s---mb-">
+		<choice>
+		  <sic>sillogismo</sic>
+		  <corr>syllogismo</corr>
+		</choice>
+	      </w>
+              <w lemma="demonstrativus" pos="a-s---mb-">demostrativo</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="octo" pos="m--------">Octo</w>
+              <w lemma="Topica" pos="n-p---ng-">Topicorum</w>
+	      <pc type="comma">,</pc>
+              <w lemma="sive" pos="c--------">sive</w>
+              <w lemma="locum" pos="n-p---nn-">loca</w>
+              <w lemma="argumentum" pos="n-p---ng-">argumentorum</w>
+              <w lemma="ad" pos="r--------">ad</w>
+              <w lemma="probabilis" pos="a-p---na-">
+		<choice>
+		  <sic>provabilia</sic>
+		  <corr>probabilia</corr>
+		</choice>
+	      </w>
+              <w lemma="p-p---na-" pos="quisque">quaeque</w>
+              <w lemma="probo" pos="v-p-g-na-">
+		<choice>
+		  <sic>provanda</sic>
+		  <corr>probanda</corr>
+		</choice>
+	      </w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="duo" pos="a-p---mn-">Duo</w>
+              <w lemma="etiam" pos="c--------">etiam</w>
+              <w lemma="de" pos="r--------">de</w>
+              <w lemma="sophisma" pos="n-p---nb-">sophismatibus</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="scopus" pos="n-s---mn-">
+		<choice>
+		  <sic>Scopum</sic>
+		  <corr>Scopus</corr>
+		</choice>
+	      </w>
+              <w lemma="Aristoteles" pos="n-s---mg-">Aristotelis</w>
+              <w lemma="sum" pos="v3spia---">est</w>
+              <w lemma="syllogismus" pos="n-s---mg-">
+		<choice>
+		  <sic>sillogismi</sic>
+		  <corr>syllogismi</corr>
+		</choice>
+	      </w>
+              <w lemma="efformatio" pos="n-s---fn-">efformatio</w>
+	      <pc type="semicolon">;</pc>
+              <w lemma="doceo" pos="v-s-g-mb-">docendo</w>
+              <w lemma="ordo" pos="n-s---ma-">ordinem</w>
+              <w lemma="idea" pos="n-p---fg-">idearum</w>
+	      <pc type="comma">
+		<choice>
+		  <sic>.</sic>
+		  <corr>,</corr>
+		</choice>
+	      </pc>
+              <w lemma="proprietas" pos="n-p---fa-">
+		<choice>
+		  <sic>propietates</sic>
+		  <corr>proprietates</corr>
+		</choice>
+	      </w>
+              <w lemma="" pos="n-p---ng-">nominum</w>
+	      <pc type="comma">,</pc>
+              <w lemma="vocabulum" pos="n-p---na-">vocabula</w>
+              <w lemma="qui" pos="p-p---na-">quae</w>
+              <w lemma="universalis" pos="a-p---fa-">universales</w>
+	      <pc type="comma">,</pc>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="particularis" pos="a-p---fa-">particulares</w>
+              <w lemma="idea" pos="n-p---fa-">ideas</w>
+              <w lemma="designo" pos="v3ppsa---">designent</w>
+	      <pc type="comma">,</pc>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="modus" pos="n-s---ma-">modum</w>
+              <w lemma="copulo" pos="v-s-g-mg-">copulandi</w>
+              <w lemma="propositio" pos="n-p---fa-">propositiones</w>
+	      <pc type="colon">:</pc>
+              <w lemma="sed" pos="c--------">sed</w>
+              <w lemma="pecco" pos="v3siia---">peccabat</w>
+              <w lemma="in" pos="r--------">in</w>
+              <w lemma="vocabulum" pos="n-p---nb-">vocabulis</w>
+              <w lemma="pro" pos="d--------">pro</w>
+              <w lemma="libet" pos="n-s-u-nd-">libitu</w>
+              <w lemma="utor" pos="v-p-g-nb-">utendis</w>
+              <w lemma="ab" pos="r--------">absque</w>
+              <w lemma="is" pos="p-p---ng-">eorum</w>
+              <w lemma="definitio" pos="n-s---fb-">definitione</w>
+	      <pc type="semicolon">;</pc>
+              <w lemma="in" pos="r--------">in</w>
+              <w lemma="nenia" pos="n-p---fa-">nenias</w>
+              <w lemma="explico" pos="v-p-g-fa-">explicandas</w>
+	      <pc type="comma">,</pc>
+              <w lemma="necque" pos="c--------">nec</w>
+              <w lemma="attingo" pos="v3spia---">attingit</w>
+              <w lemma="criterium" pos="n-s---na-">criterium</w>
+              <w lemma="veritas" pos="n-s---fg-">veritatis</w>
+	      <pc type="colon">:</pc>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="ita" pos="d--------">ita</w>
+              <w lemma="Peripateticus" pos="n-p---mn-">
+		<choice>
+		  <sic>Peripathetici</sic>
+		  <corr>Peripatetici</corr>
+		</choice>
+	      </w>
+              <w lemma="non" pos="d--------">non</w>
+              <w lemma="ex" pos="r--------">ex</w>
+              <w lemma="natura" pos="n-s---fb-">natura</w>
+              <w lemma="" pos="n-s---fg-">rei</w>
+	      <pc type="comma">,</pc>
+              <w lemma="sed" pos="c--------">sed</w>
+              <w lemma="ex" pos="r--------">ex</w>
+              <w lemma="regula" pos="n-p---fb-">regulis</w>
+              <w lemma="ars" pos="n-s---fg-">artis</w>
+	      <pc type="comma">,</pc>
+              <w lemma="consequentia" pos="n-p---fa-">consequentias</w>
+              <w lemma="deduco" pos="v3piia---">deducebant</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="pecco" pos="v3siia---">Peccabat</w>
+              <w lemma="etiam" pos="c--------">etiam</w>
+	      <pc type="comma">,</pc>
+              <w lemma="" pos="c--------">quod</w>
+              <w lemma="longus" pos="a-------c">longius</w>
+	      <pc type="comma">,</pc>
+              <w lemma="et" pos="c--------">et</w>
+              <w lemma="obscurus" pos="a-------c">obscurius</w>
+              <w lemma="sum" pos="v3sisa---">esset</w>
+              <w lemma="in" pos="r--------">in</w>
+              <w lemma="" pos="">regulis</w>
+              <w lemma="syllogismus" pos="n-p---mg-">
+		<choice>
+		  <sic>sillogismorum</sic>
+		  <corr>syllogismorum</corr>
+		</choice>
+	      </w>
+              <w lemma="produco" pos="v-p-g-fb-">producendis</w>
+	      <pc type="period">.</pc>
+            </s>
+            <s>
+              <w lemma="unus" pos="a-s---nb-">Uno</w>
+              <w lemma="verbum" pos="n-s---nb-">verbo</w>
+              <w lemma="potius" pos="d-------p">potius</w>
+              <w lemma="grammatica" pos="n-s---fa-">Grammaticam</w>
+              <w lemma="philosophicus" pos="a-s---fa-">
+		<choice>
+		  <sic>Filosophicam</sic>
+		  <corr>Philosophicam</corr>
+		</choice>
+	      </w>
+	      <pc type="comma">,</pc>
+              <w lemma="quam" pos="d--------">quam</w>
+              <w lemma="ars" pos="n-s---fa-">artem</w>
+              <w lemma="ratiocinor" pos="v-s-g-ng-">ratiocinandi</w>
+              <w lemma="edoceo" pos="v3sria---">edocuit</w>
+	      <pc type="period">.</pc>
+            </s>
+          </p>
+	  <p>
+	    <s>
+	      <name type="pers"
+		    ref="http://ark.bnf.fr/ark:/12148/cb12205314h">
+		<w lemma="Zeno"
+		   pos="n-s---mn-">Zeno</w>
+		<w lemma=""
+		   pos="">
+		  <choice>
+		    <sic>Citticus</sic>
+		    <corr>Citiensis</corr>
+		  </choice>
+		</w>
+	      </name>
+	      <w lemma="sum"
+		 pos="v3sria--">fuit</w>
+	      <w lemma="stoicus"
+		 pos="n-p---mg-">Stoicorum</w>
+	      <w lemma="parens"
+		 pos="n-s---mn-">parens</w>
+	      <pc type="comma">,</pc>
+	      <w lemma="qui"
+		 pos="p-p---mg-">quorum</w>
+	      <w lemma="schola"
+		 pos="-s---fn-">schola</w>
+	      <pc type="comma">,</pc>
+	      <w lemma="usque"
+		 pos="d--------">usque</w>
+	      <w lemma="ad"
+		 pos="r--------">ad</w>
+	      <w lemma="Augustus"
+		 pos="n-s---mg-">Augusti</w>
+	      <w lemma="aevum"
+		 pos="n-s---na-">aevum</w>
+	      <w lemma="floreo"
+		 pos="v3sria---">floruit</w>
+	      <pc type="period">.</pc>
+	    </s>
+	    <s>
+	      <name type="pers"
+		    ref=" ">
+		<w lemma="Chryssipus"
+		   pos="n-s---ma-">
+		  <choice>
+		    <sic>Chrisipum</sic>
+		    <corr>Chrysippum</corr>
+		  </choice>
+		</w>
+	      </name>
+	      <w lemma="dialecticus"
+		 pos="n-p---mg-">Dialecticorum</w>
+	      <w lemma="omnis"
+		 pos="a-p---mg-">omnium</w>
+	      <w lemma="princeps"
+		 pos="n-s---ma-">principem</w>
+	      <w lemma="ex"
+		 pos="r--------">ex</w>
+	      <w lemma="talis"
+		 pos="a-s---fb-">tali</w>
+	      <w lemma="schola"
+		 pos="n-s---fb-">schola</w>
+	      <w lemma="orior"
+		 pos="v-srppma-">ortum</w>
+	      <w lemma="scio"
+		 pos="v1ppia---">scimus</w>
+	      <pc type="semicolon">;</pc>
+	      <w lemma="verum"
+		 pos="d-------p">verum</w>
+	      <w lemma="is"
+		 pos="p-s---mg-">ejus</w>
+	      <w lemma="doctrina"
+		 pos="n-s---fn-">doctrina</w>
+	      <w lemma="in"
+		 pos="r--------">in</w>
+	      <w lemma="trecenti"
+		 pos="a-p---ma-">
+		<choice>
+		  <sic>tercentos</sic>
+		  <corr>trecentos</corr>
+		</choice>
+	      </w>
+	      <w lemma="et"
+		 pos="c--------">et</w>
+	      <w lemma="undecim"
+		 pos="m--------">undecim</w>
+	      <w lemma="liber"
+		 pos="n-p---ma-">libros</w>
+	      <w lemma="distribuo"
+		 pos="v-srppfn-">distributa</w>
+	      <pc type="comma">,</pc>
+	      <w lemma="argutus"
+		 pos="a-s---map">argutum</w>
+	      <pc type="comma">,</pc>
+	      <w lemma="et"
+		 pos="c--------">et</w>
+	      <w lemma="sophisticus"
+		 pos="a-s---ma-">sophisticum</w>
+	      <w lemma="homo"
+		 pos="v3spia---">hominem</w>
+	      <w lemma="demonstro"
+		 pos="v3spia---">demonstrat</w>
+	      <pc type="period">.</pc>
+	    </s>
+	    <s>
+	      <w lemma="ibi"
+		 pos="d--------">Ibi</w>
+	      <w lemma="de"
+		 pos="r--------">de</w>
+	      <w lemma="origo"
+		 pos="n-s---fb-">origine</w>
+	      <w lemma="idea"
+		 pos="n-p---fg-">idearum</w>
+	      <pc type="comma">,</pc>
+	      <w lemma="de"
+		 pos="r--------">de</w>
+	      <w lemma="proprietas"
+		 pos="n-s---fb-">
+		<choice>
+		  <sic>propietate</sic>
+		  <corr>proprietate</corr>
+		</choice>
+	      </w>
+	      <w lemma="vox"
+		 pos="n-p---fg-">vocum</w>
+	      <pc type="comma">,</pc>
+	      <w lemma="de"
+		 pos="r--------">de</w>
+	      <w lemma="definitio"
+		 pos="n-p---fb-">definitionibus</w>
+	      <pc type="comma">,</pc>
+	      <w lemma="et"
+		 pos="c--------">et</w>
+	      <w lemma="divisio"
+		 pos="n-p---fb-">
+		<choice>
+		  <sic>divitionibus</sic>
+		  <corr>divisionibus</corr>
+		</choice>
+	      </w>
+	      <pc type="comma">,</pc>
+	      <w lemma="non"
+		 pos="d--------">non</w>
+	      <w lemma="inepte"
+		 pos="d-------p">inepte</w>
+	      <w lemma="scribo"
+		 pos="v3sria---">scripsit</w>
+	      <pc type="period">.</pc>
+	    </s>
+	  </p>
+	  <p>
+	    <w lemma="stoicus"
+	       pos="a-p---mnp">Stoici</w>
+	    <pc type="comma">,</pc>
+	    <w lemma="in"
+	       pos="r--------">in</w>
+	    <w lemma="arbitrarius"
+	       pos="a-s---fb-">arbitraria</w>
+	    <w lemma="inventio"
+	       pos="n-s---fb-">inventione</w>
+	    <w lemma="verbum"
+	       pos="n-p---ng-">verborum</w>
+	    <pc type="comma">,</pc>
+	    <w lemma="in"
+	       pos="r--------">in</w>
+	    <w lemma="conjunctio"
+	       pos="n-s---fb-">
+	      <choice>
+		<sic>conjuntione</sic>
+		<corr>conjunctione</corr>
+	      </choice>
+	    </w>
+	    <w lemma="grammatica"
+	       pos="n-s---fg-">Grammaticae</w>
+	    <pc type="comma">,</pc>
+	    <w lemma="et"
+	       pos="c--------">et</w>
+	    <w lemma="rhetorica"
+	       pos="n-s---fg-">
+	      <choice>
+		<sic>Rectoricae</sic>
+		<corr>Rhetoricae</corr>
+	      </choice>
+	    </w>
+	    <pc type="comma">,</pc>
+	    <w lemma="et"
+	       pos="c--------">et</w>
+	    <w lemma="in"
+	       pos="r--------">in</w>
+	    <w lemma="eo"
+	       pos="d--------">eo</w>
+	    <w lemma="quod"
+	       pos="c--------">quod</w>
+	    <w lemma="systema"
+	       pos="n-s---nn-">systema</w>
+	    <w lemma="doctrina"
+	       pos="n-s---fg-">doctrinae</w>
+	    <w lemma="non"
+	       pos="d--------">non</w>
+	    <w lemma="propono"
+	       pos="v3pria---">proposuerunt</w>
+	    <pc type="comma">,</pc>
+	    <w lemma="neque"
+	       pos="c--------">nec</w>
+	    <w lemma="ratio"
+	       pos="n-s---fb-">ratione</w>
+	    <pc type="comma">,</pc>
+	    <w lemma="sed"
+	       pos="c--------">sed</w>
+	    <w lemma="ostentatio"
+	       pos="n-s---fb-">ostentatione</w>
+	    <w lemma="res"
+	       pos="n-p---fa-">res</w>
+	    <pc type="comma">,</pc>
+	    <w lemma="incredibilis"
+	       pos="a-p---fa-">incredibiles</w>
+	    <w lemma="exagito"
+	       pos="v3piia---">exagitabant</w>
+	    <pc type="comma">,</pc>
+	    <w lemma="frequentius"
+	       pos="d-------c">frequentius</w>
+	    <w lemma="pecco"
+	       pos="v3pria---">peccarunt</w>
+	    <pc type="period">.</pc>
+	  </p>
+	</div>
+      </div>
+    </body>
+    <back>
+    </back>
+  </text>
+</TEI>
