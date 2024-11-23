@@ -986,28 +986,28 @@
 	      <pc type="period">.</pc>
 	    </s>
 	    <s>
-	      <w lemma="" pos="">Omnes</w>
-	      <w lemma="" pos="">res</w>
+	      <w lemma="omnis" pos="a-p---fn-">Omnes</w>
+	      <w lemma="res" pos="n-p---fn-">res</w>
 	      <pc type="comma">,</pc>
-	      <w lemma="" pos="">vel</w>
-	      <w lemma="" pos="">sunt</w>
-	      <w lemma="" pos="">naturales</w>
+	      <w lemma="vel" pos="c--------">vel</w>
+	      <w lemma="sum" pos="v3ppia---">sunt</w>
+	      <w lemma="naturalis" pos="a-p---fn-">naturales</w>
 	      <pc type="comma">,</pc>
-	      <w lemma="" pos="">et</w>
-	      <w lemma="" pos="">nunc</w>
-	      <w lemma="" pos="">pertinent</w>
-	      <w lemma="" pos="">ad</w>
-	      <w lemma="" pos="">contemplationem</w>
-	      <w lemma="" pos="">naturae</w>
+	      <w lemma="et" pos="c--------">et</w>
+	      <w lemma="nunc" pos="d--------">nunc</w>
+	      <w lemma="pertineo" pos="v3ppia---">pertinent</w>
+	      <w lemma="ad" pos="r--------">ad</w>
+	      <w lemma="contemplatio" pos="n-s---fa-">contemplationem</w>
+	      <w lemma="natura" pos="n-s---fg-">naturae</w>
 	      <pc type="semicolon">;</pc>
-	      <w lemma="" pos="">vel</w>
-	      <w lemma="" pos="">morales</w>
+	      <w lemma="et" pos="c--------">vel</w>
+	      <w lemma="moralis" pos="a-p---fn-">morales</w>
 	      <pc type="comma">,</pc>
-	      <w lemma="" pos="">quae</w>
-	      <w lemma="" pos="">pertinent</w>
-	      <w lemma="" pos="">ad</w>
-	      <w lemma="" pos="">consuetudinem</w>
-	      <pc type="peiod">.</pc>
+	      <w lemma="qui" pos="p-p---fn-">quae</w>
+	      <w lemma="pertineo" pos="v3ppia---">pertinent</w>
+	      <w lemma="ad" pos="r--------">ad</w>
+	      <w lemma="consuetudo" pos="n-s---fa-">consuetudinem</w>
+	      <pc type="period">.</pc>
 	    </s>
 	    <s>
 	      <w lemma="" pos="">Ad</w>
