@@ -1010,16 +1010,16 @@
 	      <pc type="period">.</pc>
 	    </s>
 	    <s>
-	      <w lemma="" pos="">Ad</w>
-	      <w lemma="" pos="">eas</w>
-	      <w lemma="" pos="">comparandas</w>
-	      <w lemma="" pos="">criterio</w>
-	      <w lemma="" pos="">egimus</w>
+	      <w lemma="ad" pos="r--------">Ad</w>
+	      <w lemma="is" pos="p-p---fa-">eas</w>
+	      <w lemma="comparo" pos="v-p-g-fa-">comparandas</w>
+	      <w lemma="criterium" pos="n-s---nb-">criterio</w>
+	      <w lemma="ago" pos="v1pria---">egimus</w>
 	      <pc type="comma">,</pc>
-	      <w lemma="" pos="">sive</w>
-	      <w lemma="" pos="">recto</w>
-	      <w lemma="" pos="">modo</w>
-	      <w lemma="" pos="">judicandi</w>
+	      <w lemma="sive" pos="c--------">sive</w>
+	      <w lemma="rectum" pos="a-s---mb-">recto</w>
+	      <w lemma="modus" pos="n-s---mb-">modo</w>
+	      <w lemma="judico" pos="v-s-g-mg-">judicandi</w>
 	      <pc type="period">.</pc>
 	    </s>
 	    <s>
