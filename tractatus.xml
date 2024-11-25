@@ -1023,38 +1023,48 @@
 	      <pc type="period">.</pc>
 	    </s>
 	    <s>
-	      <w lemma="" pos="">Naturales</w>
-	      <w lemma="" pos="">percipiuntur</w>
-	      <w lemma="" pos="">a</w>
-	      <w lemma="" pos="">sensu</w>
+	      <w lemma="naturalis" pos="a-p---fn-">Naturales</w>
+	      <w lemma="percipio" pos="v3ppip---">percipiuntur</w>
+	      <w lemma="ab" pos="r--------">a</w>
+	      <w lemma="sensus" pos="n-s---mb-">sensu</w>
 	      <pc type="colon">:</pc>
-	      <w lemma="" pos="">morales</w>
-	      <w lemma="" pos="">ab</w>
-	      <w lemma="" pos="">apetitu</w>
+	      <w lemma="moralis" pos="a-p---fn-">morales</w>
+	      <w lemma="ab" pos="r--------">ab</w>
+	      <w lemma="appetitus" pos="n-s---mb-">
+		<choice>
+		  <sic>apetitu</sic>
+		  <corr>appetitu</corr>
+		</choice>
+	      </w>
 	      <pc type="period">.</pc>
 	    </s>
 	    <s>
 	      <w lemma="" pos="">Sensus</w>
-	      <w lemma="" pos="">numquam</w>
-	      <w lemma="" pos="">falitur</w>
+	      <w lemma="numquam" pos="d-------">numquam</w>
+	      <w lemma="fallo" pos="v3spip---">
+		<choice>
+		  <sic>falitur</sic>
+		  <corr>fallitur</corr>
+		</choice>
+	      </w>
 	      <pc type="comma">,</pc>
-	      <w lemma="" pos="">et</w>
-	      <w lemma="" pos="">opinio</w>
-	      <w lemma="" pos="">est</w>
-	      <w lemma="" pos="">vera</w>
-	      <w lemma="" pos="">si</w>
-	      <w lemma="" pos="">conformatur</w>
-	      <w lemma="" pos="">sensui</w>
+	      <w lemma="et" pos="c--------">et</w>
+	      <w lemma="opinio" pos="n-s---fn-">opinio</w>
+	      <w lemma="sum" pos="v3spia---">est</w>
+	      <w lemma="verus" pos="a-s---fn-">vera</w>
+	      <w lemma="si" pos="c--------">si</w>
+	      <w lemma="conformo" pos="v3spip---">conformatur</w>
+	      <w lemma="sensus" pos="n-s---md-">sensui</w>
 	      <pc type="period">.</pc>
 	    </s>
 	    <s>
-	      <w lemma="" pos="">Voluptas</w>
-	      <w lemma="" pos="">amplectitur</w>
+	      <w lemma="voluptas" pos="n-s---fn-">Voluptas</w>
+	      <w lemma="amplector" pos="v3spip---">amplectitur</w>
 	      <pc type="comma">,</pc>
-	      <w lemma="" pos="">si</w>
-	      <w lemma="" pos="">non</w>
-	      <w lemma="" pos="">est</w>
-	      <w lemma="" pos="">molesta</w>
+	      <w lemma="si" pos="c--------">si</w>
+	      <w lemma="non" pos="d--------">non</w>
+	      <w lemma="sum" pos="v3spia---">est</w>
+	      <w lemma="molestus" pos="a-s---fn-">molesta</w>
 	      <pc type="period">.</pc>
 	    </s>
 	  </p>
